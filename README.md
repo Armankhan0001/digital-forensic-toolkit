@@ -73,19 +73,4 @@ Learning file analysis techniques
 
 This tool is developed for educational and defensive cybersecurity purposes only. The author is not responsible for misuse.
 
-👨‍💻 Author
-
-Arman Khan
 Cybersecurity & Digital Forensics Enthusiast
-
-If you want, I can also create:
-
-📄 Professional GitHub version (with badges & screenshots)
-
-📦 Zip file structure ready for submission
-
-🧑‍💼 Resume project description (2–3 strong CV lines)
-
-🎨 GUI version README
-
-Tell me what you want next 🚀
